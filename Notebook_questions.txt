@@ -1,0 +1,7 @@
+1c. All variables are numeric, and there are no null values. 
+At this point, without domain knowledge of which of these variables might affect alchohol content,
+ all variables seem suitable for regression analysis, except for quality, 
+as this is a discrete (non-continuous) and subjectively determined varaible. Quality would be suitable for a classification analysis though.
+
+2a. White is a strong positive correlation (1) and black is a strong negative correlation (-1). 
+Strong positive or negative correlations are worth investigating. For instance, fixed acidity and density are strongly positively correlated.
